@@ -5,7 +5,7 @@
 
 - 🎓 솔데스크에서 Java&Python 웹개발 전문가 과정을 수강했습니다. **2021.06.08 - 2021.11.18**
 
-- 🛠️ Spring Framework를 활용한 근태관리 프로그램을 구현 중 입니다. 
+- 🛠️ Spring Framework를 활용한 근태관리 프로그램을 구현 중 입니다. <br/>
 <a>프로젝트 소개 링크 : [proj.on&off](https://www.notion.so/OnNoFF-44bf6bef3b804d20bfba6675b435d45e#70142faf8b2543a3b53bdc575a606204)</a>
 
 
