@@ -26,12 +26,12 @@
   </br>
 
 <h3 align="left">Top Skills: </h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fiadh-l&show_icons=true&locale=en&layout=compact" alt="fiadh-l" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fiadh-l&show_icons=true&locale=en&layout=compact" alt="fiadh-l" /></p>
 </br>
 
 <h3 align="left">Profile Stats Card: </h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fiadh-l&show_icons=true&locale=en" alt="fiadh-l" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fiadh-l&show_icons=true&locale=en" alt="fiadh-l" /></p>
 </br>
 
 <h3 align="left">Github streak Stats: </h3>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fiadh-l&" alt="fiadh-l" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fiadh-l&" alt="fiadh-l" /></p>
