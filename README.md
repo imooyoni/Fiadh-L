@@ -23,15 +23,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank"> 
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-  </br>
-
-<h3 align="left">Top Skills: </h3>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fiadh-l&show_icons=true&locale=en&layout=compact" alt="fiadh-l" /></p>
+  <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fiadh-l&show_icons=true&locale=en&layout=compact" alt="fiadh-l" /></p>
 </br>
 
 <h3 align="left">Profile Stats Card: </h3>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fiadh-l&show_icons=true&locale=en" alt="fiadh-l" /></p>
 </br>
-
-<h3 align="left">Github streak Stats: </h3>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fiadh-l&" alt="fiadh-l" /></p>
