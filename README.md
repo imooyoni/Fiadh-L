@@ -1,7 +1,7 @@
 <h1 align="center">안녕하세요. 👋, 저는 우연 입니다.</h1>
 <h3 align="center">저는 대한민국🇰🇷 서울에 거주하는 백엔드 개발자입니다.</h3>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=immoyoni&label=Profile%20views&color=0e75b6&style=flat" alt="imooyoni" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=imooyoni&label=Profile%20views&color=bluepurple&style=plastic" alt="imooyoni" /> </p>
 
 - 🎓 솔데스크에서 Java&Python 웹개발 전문가 과정을 수강했습니다. **2021.06.08 - 2021.11.18**
 
@@ -38,7 +38,7 @@
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=immoyoni&show_icons=true&locale=en&layout=compact" alt="immoyoni" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=imooyoni&show_icons=true&locale=en&layout=compact" alt="imooyoni" />
 </p>
   </br>
 <!--
