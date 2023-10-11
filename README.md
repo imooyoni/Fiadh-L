@@ -2,7 +2,6 @@
 <h3 align="center">저는 대한민국🇰🇷 서울에 거주하는 백엔드 개발자입니다.</h3>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=imooyoni&label=VIEWS&color=blueviolet&style=plastic&base=472" alt="imooyoni" /> </p>
-![](https://komarev.com/ghpvc/?username=your-github-username)
 
 - 🎓 솔데스크에서 Java&Python 웹개발 전문가 과정을 수강했습니다. **2021.06.08 - 2021.11.18**
 
