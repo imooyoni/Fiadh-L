@@ -1,7 +1,7 @@
 <h1 align="center">안녕하세요. 👋, 저는 우연 입니다.</h1>
 <h3 align="center">저는 대한민국🇰🇷 서울에 거주하는 백엔드 개발자입니다.</h3>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=imooyoni&label=Profile%20views&color=blueviolet&style=plastic" alt="imooyoni" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=imooyoni&&label=PROFILE+VIEWS&color=blueviolet&style=plastic" alt="imooyoni" /> </p>
 
 - 🎓 솔데스크에서 Java&Python 웹개발 전문가 과정을 수강했습니다. **2021.06.08 - 2021.11.18**
 
