@@ -1,8 +1,6 @@
 <h1 align="center">안녕하세요. 👋, 저는 웹 백엔드 개발자 임우연 입니다.</h1>
 <h3 align="center">저는 대한민국🇰🇷 서울에 거주하고 있습니다.</h3>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=imooyoni&label=VIEWS&color=yellow&style=plastic&base=472" alt="imooyoni" /> </p>
-
 - 🎓 솔데스크에서 Java&Python 웹개발 전문가 과정을 수강했습니다. **2021.06.08 - 2021.11.18**
 
 - 🛠️ Spring Framework를 활용한 근태관리 프로그램을 구현 중 입니다. <br/>
@@ -41,6 +39,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=imooyoni&show_icons=true&locale=en&layout=compact" alt="imooyoni" />
 </p>
   </br>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=imooyoni&label=VIEWS&color=ff69b4&style=flat-square&base=472" alt="imooyoni" /> </p>
 <!--
 <h3 align="left">Profile Stats Card: </h3>
   <p align="center">
